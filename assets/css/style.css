@@ -1,0 +1,55 @@
+.navbar {
+    background-color: white;
+    height: 80px;
+    width: auto;
+}
+
+.name_title{
+    background-color: rgb(10, 200, 180);
+    position: absolute;
+    width: 220px;
+    height: 76px;
+    left: 180px;
+    top: 20px;
+    text-align: center;
+    color: white;
+}
+
+.about{
+    position: relative;
+    color: grey;
+    left: 800px;
+    top: 30px;
+}
+
+.portfolio{
+    position: relative;
+    color: grey;
+    left: 900px;
+    bottom: 5px;
+}
+
+.contact{
+    position: relative;
+    color: grey;
+    left: 1000px;
+    bottom: 40px;
+}
+
+.main{
+
+    background-color: lightgray;
+    width: auto;
+    height: 800px;
+}
+
+.inner_main{
+    position: relative;
+    background-color: white;
+    height: 600px;
+    top: 100px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
